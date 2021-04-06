@@ -1,0 +1,15 @@
+Below is some feedback for us;
+
+1.  On the first page, I am thinking that we may need a few more details from our participants which i think can be more useful in the future. These are details of gender, contact no., fname, age of person answering and location.
+
+2. Could we think of a small menu listing all domains that will constitute the questions, then design it in a simple manner that allows the participant to pick or start answering frem any domain and then link him or her to the rest of the other pages containing other domains.
+
+3. I propose that at the end of every qn, we first put alternative answers of YES or NO.
+
+Then we can only display the rating scale to people who answer Yes for a particular characteristic and hide the rating scale from all those that say NO to that question.
+
+4. I would also desire that we give a slight description probably at the introductory statement of what the rating scale means i.e. 1- worst and 4-is best.
+
+5. Kindly don't forget to include and alternate the domain page colors.
+
+6. I also cannot wait to see how results will  display.

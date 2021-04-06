@@ -1,0 +1,17 @@
+form {
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
+
+.form_display {
+	background-color: #d3d3d3;
+	padding: 6px;
+	border-radius: 10px;
+}
+
+.test{
+	background-color: #00b2ff;
+	padding: 6px;
+	border-radius: 10px;
+}
